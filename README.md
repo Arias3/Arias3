@@ -4,9 +4,8 @@ Hello! I'm an **Electronic Engineer** and **Developer** focused on creating inno
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, JavaScript  
-- **Frameworks/Libraries:** _To be determined based on projects_  
-- **Others:** _To be determined based on projects_  
+- **Programming Languages:** Python, JavaScript.
+- **Frameworks/Libraries:** Kyvy, React, React Native, Tensorflow, OpenCV.
 
 ## 🚀 Featured Projects
 
