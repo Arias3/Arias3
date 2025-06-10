@@ -1,39 +1,34 @@
+# Hey, I'm Juan! 👋
 
-# Hey, I'm Juan!
-# Juan Arias (Arias3)
+Hello! I'm an **Electronic Engineer** and **Developer** focused on creating innovative solutions. I'm passionate about **programming** and **process automation**.
 
-¡Hola! 👋 Soy Ingeniero Electrónico y Desarrollador enfocado en crear soluciones innovadoras. Me apasiona la programación y la automatización de procesos.
+## 🛠️ Skills
 
-## Habilidades
+- **Programming Languages:** Python, JavaScript  
+- **Frameworks/Libraries:** _To be determined based on projects_  
+- **Others:** _To be determined based on projects_  
 
-*   **Lenguajes de Programación:** Python, JavaScript
-*   **Frameworks/Librerías:** (A determinar según los proyectos)
-*   **Otros:** (A determinar según los proyectos)
+## 🚀 Featured Projects
 
-## Proyectos Destacados
+### 1. [TaskTime](https://github.com/Arias3/TaskTime)
+- TaskTime is a time and task management application built with Python and the Kivy framework.  
+- **Languages:** Python
 
-1.  **TaskTime:**
-    *   TaskTime es una aplicación de gestión de tiempo y tareas construida con Python y el framework Kivy.
-    *   Lenguajes: Python
-    *   [Enlace al Repositorio](https://github.com/Arias3/TaskTime)
+### 2. [Vigil.IA](https://github.com/Arias3/Vigil.IA)
+- Web server developed in JavaScript. It uses a CNN-based intelligent model for driver facial recognition and classifies the driver’s state as alert or drowsy.  
+- **Languages:** JavaScript, Python  
+- **Libraries:** TensorFlow, OpenCV
 
-2.  **Vigil.IA:**
-    *   Web server desarrollado en JavaScript. Emplea un modelo inteligente CNN para el renocimiento facial de conductores, clasifica en estado atento o somnoliento. 
-    *   Lenguajes: JavaScript, Python
-    *   Librerias: TensorFlow, OpenCV.
-    *   [Enlace al Repositorio](https://github.com/Arias3/Vigil.IA)
+### 3. [5G, 6G, 7G Networks](https://github.com/Arias3/website)
+- Informative website about mobile networks developed with JavaScript.  
+- **Framework:** React  
+- **Languages:** JavaScript
 
-3.  **Redes 5,6,7G**
-    *   Página web informativa  de las redes moviles desarrollada con JavaScript.     
-    *   Framework: React.
-    *   Lenguajes: JavaScript
-    *   [Enlace al Repositorio](https://github.com/Arias3/website)
+### 4. [Industrial Management Portal](https://github.com/Arias3/PORTAL-DE-GESTION-INDUSTIAL-)
+- Web server and scripts for RFID antenna reading, workstation administration, material and process time monitoring, and inventory management.  
+- **Languages:** Python
 
-4.  **PORTAL DE GESTION INDUSTIAL:**
-    *   WebServer y scripts de lectura de antenas RFID y administracion de estaciones de trabajo, monitoreo de materiales y tiempos de procesos. Gestion de inventario.
-    *   Lenguajes: Python
-    *   [Enlace al Repositorio](https://github.com/Arias3/PORTAL-DE-GESTION-INDUSTIAL-)
+## 📫 Contact
 
-## Contacto
+- **Email:** [juan43arias@gmail.com](mailto:juan43arias@gmail.com)
 
-*   Correo: juan43arias@gmail.com
