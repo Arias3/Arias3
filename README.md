@@ -31,3 +31,6 @@ Hello! I'm an **Electronic Engineer** and **Developer** focused on creating inno
 
 - **Email:** [juan43arias@gmail.com](mailto:juan43arias@gmail.com)
 
+## GitHub Staks
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arias3&theme=dark&show_icons=true&hide_border=true&layout=compact)
